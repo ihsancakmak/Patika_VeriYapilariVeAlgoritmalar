@@ -1,0 +1,2 @@
+# Patika_VeriYapilariVeAlgoritmalar
+Çözümler
